@@ -88,7 +88,7 @@ class Leach:
 
 v =f'''
 {'+'*48}
-	Link-Leach
+	Script-Leach
 	by: TaqsBlaze
 	
 leach all urls leading to scripts from any website
