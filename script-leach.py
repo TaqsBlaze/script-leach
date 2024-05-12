@@ -101,9 +101,7 @@ url = str(input(" * Url:"))
 print("* Connecting...💫")
 
 data =requests.get(url,
-	headers={"User-Agent":"Android",
-					#"Host":"techzim.co.zw"
-	}
+	headers={"User-Agent":"Android"}
 )
 
 #print(data.text)
